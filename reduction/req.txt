@@ -21,4 +21,3 @@ urllib3
 wincertstore
 sqlite3
 
-//suryabhaii
